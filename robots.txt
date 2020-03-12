@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aasheenao.weime.net.cn/sitemap.xml
